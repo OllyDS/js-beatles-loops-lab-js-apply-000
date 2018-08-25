@@ -28,6 +28,7 @@ function iLoveTheBeatles(n){
   var array3 = [];
   do{
     array3.push("I love the Beatles!");
+    n++;
   }
   while (array3.length < 15);
   return "I love the Beatles!"
