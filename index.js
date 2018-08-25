@@ -30,7 +30,7 @@ function iLoveTheBeatles(n){
     array3.push("I love the Beatles!");
     n++;
   }
-  while (array3 < 15);
+  while (n < 15);
   return array3;
 ;  
 }
